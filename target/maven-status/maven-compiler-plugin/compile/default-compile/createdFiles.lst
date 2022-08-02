@@ -1,0 +1,5 @@
+hu\home\springbootcrud\controller\ProductController.class
+hu\home\springbootcrud\SpringBootCrudApplication.class
+hu\home\springbootcrud\repository\ProductRepository.class
+hu\home\springbootcrud\service\ProductService.class
+hu\home\springbootcrud\entity\Product.class
