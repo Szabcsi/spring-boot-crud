@@ -1,4 +1,4 @@
-package hu.home.springbootcrud.entity;
+package hu.home.springbootcrud.controller.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

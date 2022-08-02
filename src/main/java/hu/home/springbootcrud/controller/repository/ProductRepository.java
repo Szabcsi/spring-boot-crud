@@ -1,6 +1,6 @@
-package hu.home.springbootcrud.repository;
+package hu.home.springbootcrud.controller.repository;
 
-import hu.home.springbootcrud.entity.Product;
+import hu.home.springbootcrud.controller.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ProductRepository extends JpaRepository<Product,Integer> {

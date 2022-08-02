@@ -1,7 +1,7 @@
-package hu.home.springbootcrud.service;
+package hu.home.springbootcrud.controller.service;
 
-import hu.home.springbootcrud.entity.Product;
-import hu.home.springbootcrud.repository.ProductRepository;
+import hu.home.springbootcrud.controller.entity.Product;
+import hu.home.springbootcrud.controller.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

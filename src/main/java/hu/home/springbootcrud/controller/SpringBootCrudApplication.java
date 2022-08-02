@@ -1,4 +1,4 @@
-package hu.home.springbootcrud;
+package hu.home.springbootcrud.controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
