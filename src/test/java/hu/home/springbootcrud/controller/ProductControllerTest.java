@@ -1,23 +1,13 @@
 package hu.home.springbootcrud.controller;
 
-import hu.home.springbootcrud.controller.controller.ProductController;
 import hu.home.springbootcrud.controller.entity.Product;
 import hu.home.springbootcrud.controller.service.ProductService;
-import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.mockito.InjectMocks;
 import org.mockito.Mock;
-import org.mockito.Mockito;
 import org.mockito.junit.MockitoJUnitRunner;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
-
-import java.util.Optional;
 
 import static org.junit.Assert.assertEquals;
-import static org.mockito.Mockito.doReturn;
 import static org.mockito.Mockito.when;
 
 @RunWith(MockitoJUnitRunner.class)
